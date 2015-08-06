@@ -4,10 +4,11 @@ A jQuery Plugin to serialize a Form data into a JSON object to send in HTTP requ
 
 ### By Carmel Shvartzman
 ### For  <a href="http://themvcclub.blogspot.com/"   target="_new"  >The MVC Club</a>
-This is the companion code for the following Tutorial:
+This is the companion code for the following Tutorials:
+http://themvcclub.blogspot.com/2015/08/jquery-plugin-serialize-html5-form-into-json-object.html
  http://carmelsoft.blogspot.com/2015/08/jquery-plugin-form-json-serializer.html
 
-<a href="http://carmelsoft.blogspot.com/2015/08/jquery-plugin-form-json-serializer.html" imageanchor="1" target="_self" style="margin-left: 1em; margin-right: 1em;">
+<a href="http://themvcclub.blogspot.com/2015/08/jquery-plugin-serialize-html5-form-into-json-object.html" imageanchor="1" target="_self" style="margin-left: 1em; margin-right: 1em;">
 
 
 <img border="0" height="540" src="http://3.bp.blogspot.com/-JUNfnR1H3oc/VcNBzefWztI/AAAAAAAALhQ/vxfeqjUo0xU/s640/1.png" width="640" />
